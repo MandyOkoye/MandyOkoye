@@ -1,4 +1,4 @@
-- 👋 Hi, I am Mandy Okoye and you are welcome to my data journey on GHub
+- 👋 Hi, I am Amanda Aniebonam and you are welcome to my data journey on GHub
 - 👀 I’m interested in Data Analytics with Excel, Power Bi, SPSS
 - 🌱 I’m currently learning Power Bi
 - 💞️ I’m looking to collaborate on Power Bi projects
